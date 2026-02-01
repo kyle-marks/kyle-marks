@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Kyle 👋
+I'm a product manager turning product builder. I spend my time thinking about how AI is going to change the way people work. 
+Currently building AI products at Quandri. Previously at Athennian. I didn't take the traditional path into tech, but that's what makes it fun.
 
-<!--
-**kyle-marks/kyle-marks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A few things I am interested in
 
-Here are some ideas to get you started:
+- AI making software more personal, more useful, and way more simple
+- Product people who can build, not just write specs
+- Design and creativity as first-class concerns in product development
+- Shipping things even when they're imperfect to learn and iterate
+- Building tools that actually change how people work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outside of work
+Based in Vancouver, BC. Usually surfing, camping, biking, backpacking, or planning the next adventure.
