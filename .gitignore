@@ -1,0 +1,3 @@
+
+# Claude Code per-user settings (may contain approved commands)
+.claude/settings.local.json
